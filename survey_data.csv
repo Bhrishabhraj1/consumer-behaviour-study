@@ -1,0 +1,151 @@
+RespondentID,Age_Group,Gender,Income_Level,Education,Preferred_Brand,Brand_Awareness,Brand_Trust,Purchase_Intent,Price_Sensitivity,Social_Influence,Digital_Engagement,Repeat_Purchase_Prob,Purchase_Frequency,Info_Channel,Overall_Satisfaction,Loyalty_Tier
+R001,18–24,Male,> ₹10L,Graduate,Brand C (Trendy),2,4,5,4,4,2,3,Monthly,Social Media,2.95,Neutral
+R002,45–54,Female,₹3L–₹6L,Graduate,Brand A (Premium),4,2,3,4,3,5,4,Weekly,Social Media,3.6,Loyalist
+R003,25–34,Female,< ₹3L,Graduate,Brand B (Value),1,4,4,3,3,3,4,Quarterly,Online Reviews,3.35,Neutral
+R004,35–44,Male,> ₹10L,Graduate,Brand B (Value),4,5,5,5,4,4,3,Quarterly,Social Media,3.95,Loyalist
+R005,55+,Male,< ₹3L,Post-Graduate,Brand D (Traditional),4,5,3,3,1,4,4,Weekly,Social Media,4.3,Loyalist
+R006,25–34,Male,₹3L–₹6L,Post-Graduate,Brand A (Premium),4,4,3,2,4,4,4,Quarterly,TV Ads,4.0,Loyalist
+R007,25–34,Female,₹3L–₹6L,Graduate,Brand A (Premium),3,5,4,5,3,3,3,Quarterly,Social Media,3.6,Loyalist
+R008,18–24,Female,> ₹10L,Post-Graduate,Brand B (Value),1,4,1,2,2,3,4,Rarely,Social Media,3.35,Neutral
+R009,25–34,Other,₹6L–₹10L,Post-Graduate,Brand B (Value),4,3,1,3,5,3,4,Quarterly,Social Media,3.5,Neutral
+R010,25–34,Male,₹6L–₹10L,Post-Graduate,Brand A (Premium),5,3,4,4,3,4,4,Monthly,In-store,3.85,Loyalist
+R011,35–44,Male,₹3L–₹6L,Graduate,Brand C (Trendy),5,4,3,4,3,4,2,Quarterly,Online Reviews,3.45,Neutral
+R012,45–54,Female,₹6L–₹10L,Graduate,Brand C (Trendy),4,4,1,3,4,4,5,Monthly,Social Media,4.35,Loyalist
+R013,25–34,Female,> ₹10L,Doctorate,Brand A (Premium),4,5,3,1,5,4,2,Monthly,Online Reviews,3.6,Loyalist
+R014,18–24,Male,> ₹10L,Post-Graduate,Brand B (Value),4,4,4,3,3,4,3,Monthly,Social Media,3.65,Loyalist
+R015,25–34,Female,₹6L–₹10L,Post-Graduate,Brand C (Trendy),5,3,4,3,2,5,4,Monthly,Word of Mouth,4.05,Loyalist
+R016,45–54,Female,< ₹3L,Graduate,Brand D (Traditional),4,4,4,4,5,4,5,Rarely,Online Reviews,4.35,Loyalist
+R017,18–24,Female,₹3L–₹6L,Post-Graduate,Brand A (Premium),5,5,2,2,3,4,3,Monthly,Social Media,4.1,Loyalist
+R018,25–34,Female,₹3L–₹6L,Graduate,Brand C (Trendy),3,4,5,4,4,4,2,Monthly,Social Media,3.15,Neutral
+R019,55+,Male,₹3L–₹6L,High School,Brand A (Premium),3,3,2,4,3,4,4,Monthly,Online Reviews,3.55,Loyalist
+R020,18–24,Male,₹6L–₹10L,Graduate,Brand C (Trendy),3,5,4,5,5,4,5,Monthly,Word of Mouth,4.5,Loyalist
+R021,35–44,Male,₹3L–₹6L,High School,Brand C (Trendy),4,4,2,4,3,3,4,Monthly,In-store,3.8,Loyalist
+R022,55+,Male,₹6L–₹10L,Graduate,Brand D (Traditional),5,3,5,4,4,4,5,Rarely,Social Media,4.2,Loyalist
+R023,18–24,Female,₹3L–₹6L,Post-Graduate,Brand C (Trendy),4,4,4,3,4,3,3,Quarterly,Social Media,3.45,Neutral
+R024,25–34,Male,₹6L–₹10L,Post-Graduate,Brand A (Premium),4,3,4,5,2,4,5,Monthly,Social Media,4.05,Loyalist
+R025,45–54,Female,< ₹3L,Post-Graduate,Brand C (Trendy),2,3,3,2,4,5,1,Quarterly,Social Media,2.55,Neutral
+R026,18–24,Male,₹3L–₹6L,High School,Brand A (Premium),4,4,4,4,5,5,4,Quarterly,Social Media,4.2,Loyalist
+R027,25–34,Male,< ₹3L,Graduate,Brand D (Traditional),4,5,4,4,4,5,5,Monthly,Word of Mouth,4.85,Loyalist
+R028,35–44,Male,₹3L–₹6L,High School,Brand A (Premium),4,4,4,4,3,3,3,Monthly,Social Media,3.45,Neutral
+R029,35–44,Male,> ₹10L,High School,Brand B (Value),3,2,4,2,1,1,5,Monthly,TV Ads,3.0,Neutral
+R030,25–34,Female,₹3L–₹6L,Graduate,Brand C (Trendy),4,4,2,3,4,3,4,Monthly,TV Ads,3.8,Loyalist
+R031,18–24,Female,> ₹10L,Doctorate,Brand A (Premium),4,4,3,5,3,4,3,Quarterly,Social Media,3.65,Loyalist
+R032,25–34,Male,₹3L–₹6L,Post-Graduate,Brand C (Trendy),4,4,4,4,3,2,1,Rarely,Word of Mouth,2.55,Neutral
+R033,25–34,Female,< ₹3L,Graduate,Brand C (Trendy),4,3,3,2,3,2,4,Rarely,In-store,3.3,Neutral
+R034,25–34,Male,₹6L–₹10L,Graduate,Brand C (Trendy),4,4,5,3,3,5,3,Quarterly,TV Ads,3.85,Loyalist
+R035,25–34,Male,< ₹3L,Doctorate,Brand D (Traditional),5,3,4,4,3,3,4,Monthly,TV Ads,3.65,Loyalist
+R036,45–54,Male,₹6L–₹10L,Post-Graduate,Brand B (Value),4,1,3,5,3,2,3,Monthly,TV Ads,2.35,Detractor
+R037,35–44,Male,< ₹3L,Graduate,Brand A (Premium),5,4,5,3,3,4,1,Rarely,In-store,3.1,Neutral
+R038,25–34,Male,₹6L–₹10L,Graduate,Brand A (Premium),4,4,3,2,1,4,2,Rarely,Online Reviews,3.3,Neutral
+R039,35–44,Female,< ₹3L,Graduate,Brand B (Value),4,3,4,2,3,4,4,Monthly,In-store,3.7,Loyalist
+R040,25–34,Female,₹3L–₹6L,Post-Graduate,Brand A (Premium),3,3,4,1,3,2,2,Quarterly,TV Ads,2.45,Detractor
+R041,25–34,Male,> ₹10L,Post-Graduate,Brand C (Trendy),2,4,5,2,5,4,3,Rarely,Social Media,3.35,Neutral
+R042,25–34,Male,₹3L–₹6L,Post-Graduate,Brand A (Premium),5,5,2,1,3,2,4,Monthly,Social Media,4.05,Loyalist
+R043,35–44,Male,₹6L–₹10L,Post-Graduate,Brand A (Premium),4,3,5,4,4,4,3,Quarterly,Social Media,3.35,Neutral
+R044,25–34,Male,₹6L–₹10L,Graduate,Brand D (Traditional),1,4,4,4,5,5,4,Rarely,In-store,3.75,Loyalist
+R045,25–34,Male,< ₹3L,Post-Graduate,Brand C (Trendy),4,3,3,3,5,1,3,Monthly,Word of Mouth,2.75,Neutral
+R046,35–44,Female,₹6L–₹10L,Doctorate,Brand A (Premium),5,4,3,5,4,4,4,Monthly,TV Ads,4.15,Loyalist
+R047,25–34,Female,> ₹10L,Graduate,Brand B (Value),5,4,5,2,4,5,3,Rarely,Social Media,4.0,Loyalist
+R048,45–54,Male,< ₹3L,Graduate,Brand C (Trendy),5,3,5,2,4,4,3,Rarely,In-store,3.5,Neutral
+R049,18–24,Female,₹3L–₹6L,Post-Graduate,Brand C (Trendy),5,4,4,4,2,2,5,Weekly,Social Media,4.1,Loyalist
+R050,35–44,Female,₹3L–₹6L,Graduate,Brand A (Premium),4,4,3,3,2,2,2,Quarterly,Word of Mouth,2.9,Neutral
+R051,25–34,Female,₹6L–₹10L,Doctorate,Brand B (Value),3,3,5,2,2,4,4,Quarterly,Word of Mouth,3.55,Loyalist
+R052,25–34,Male,< ₹3L,Graduate,Brand D (Traditional),2,4,1,5,2,1,4,Quarterly,Word of Mouth,3.1,Neutral
+R053,35–44,Female,₹3L–₹6L,Graduate,Brand A (Premium),3,5,1,4,4,5,3,Quarterly,Word of Mouth,4.0,Loyalist
+R054,25–34,Female,₹6L–₹10L,Doctorate,Brand D (Traditional),4,5,4,4,4,4,4,Quarterly,Word of Mouth,4.3,Loyalist
+R055,25–34,Female,₹6L–₹10L,High School,Brand C (Trendy),5,4,4,3,1,3,4,Quarterly,Word of Mouth,3.95,Loyalist
+R056,18–24,Male,< ₹3L,Post-Graduate,Brand A (Premium),1,4,1,4,5,5,4,Quarterly,TV Ads,3.75,Loyalist
+R057,18–24,Female,₹6L–₹10L,Graduate,Brand C (Trendy),5,2,2,1,3,3,3,Weekly,Online Reviews,3.0,Neutral
+R058,35–44,Female,₹3L–₹6L,Graduate,Brand A (Premium),5,4,2,3,4,4,2,Monthly,Social Media,3.45,Neutral
+R059,25–34,Female,₹6L–₹10L,Graduate,Brand B (Value),4,5,3,4,2,4,5,Monthly,Social Media,4.65,Loyalist
+R060,35–44,Male,₹3L–₹6L,Graduate,Brand C (Trendy),2,3,2,3,5,2,5,Rarely,Online Reviews,3.35,Neutral
+R061,55+,Other,< ₹3L,High School,Brand A (Premium),2,5,2,3,2,5,3,Monthly,Online Reviews,3.85,Loyalist
+R062,35–44,Female,₹6L–₹10L,Graduate,Brand D (Traditional),4,5,2,1,3,4,3,Quarterly,Word of Mouth,3.95,Loyalist
+R063,18–24,Male,₹6L–₹10L,Graduate,Brand C (Trendy),4,4,3,3,3,3,4,Rarely,Social Media,3.8,Loyalist
+R064,25–34,Female,₹6L–₹10L,Doctorate,Brand A (Premium),4,3,2,5,4,4,4,Weekly,Online Reviews,3.7,Loyalist
+R065,35–44,Male,> ₹10L,Doctorate,Brand A (Premium),3,2,4,5,4,3,5,Monthly,In-store,3.4,Neutral
+R066,18–24,Other,₹3L–₹6L,Post-Graduate,Brand A (Premium),1,3,3,4,5,5,4,Monthly,TV Ads,3.45,Neutral
+R067,55+,Female,₹3L–₹6L,Doctorate,Brand C (Trendy),5,4,2,1,1,4,4,Rarely,TV Ads,4.15,Loyalist
+R068,55+,Female,< ₹3L,Post-Graduate,Brand A (Premium),5,4,4,1,4,5,4,Quarterly,TV Ads,4.35,Loyalist
+R069,45–54,Female,₹3L–₹6L,Graduate,Brand B (Value),5,5,4,2,3,5,1,Weekly,Word of Mouth,3.6,Loyalist
+R070,25–34,Male,₹3L–₹6L,Graduate,Brand C (Trendy),5,3,3,4,5,5,4,Weekly,Social Media,4.05,Loyalist
+R071,45–54,Male,₹3L–₹6L,Post-Graduate,Brand D (Traditional),4,5,1,2,4,3,4,Monthly,Social Media,4.1,Loyalist
+R072,18–24,Male,₹3L–₹6L,Graduate,Brand A (Premium),5,5,4,2,5,5,3,Rarely,In-store,4.3,Loyalist
+R073,25–34,Female,₹3L–₹6L,High School,Brand B (Value),3,4,4,2,5,3,3,Monthly,TV Ads,3.3,Neutral
+R074,25–34,Male,< ₹3L,Doctorate,Brand B (Value),4,3,5,4,4,5,3,Rarely,TV Ads,3.55,Loyalist
+R075,35–44,Female,₹3L–₹6L,Doctorate,Brand B (Value),3,3,4,3,2,4,4,Quarterly,Social Media,3.55,Loyalist
+R076,25–34,Male,₹3L–₹6L,Post-Graduate,Brand B (Value),4,2,4,5,4,4,1,Rarely,Social Media,2.35,Detractor
+R077,18–24,Male,₹3L–₹6L,Post-Graduate,Brand B (Value),5,2,3,1,4,3,4,Monthly,Social Media,3.35,Neutral
+R078,25–34,Male,> ₹10L,Post-Graduate,Brand C (Trendy),4,4,3,1,4,4,4,Monthly,Social Media,4.0,Loyalist
+R079,25–34,Female,< ₹3L,Doctorate,Brand B (Value),5,4,1,4,5,4,3,Monthly,Word of Mouth,3.8,Loyalist
+R080,25–34,Female,₹6L–₹10L,Graduate,Brand B (Value),4,4,5,2,3,4,3,Rarely,Online Reviews,3.65,Loyalist
+R081,18–24,Female,₹6L–₹10L,Post-Graduate,Brand B (Value),3,3,4,4,1,2,2,Rarely,In-store,2.45,Detractor
+R082,25–34,Male,₹3L–₹6L,Graduate,Brand A (Premium),3,3,3,4,4,3,3,Monthly,In-store,3.0,Neutral
+R083,25–34,Female,₹3L–₹6L,Graduate,Brand C (Trendy),1,5,2,2,3,4,5,Monthly,Social Media,4.2,Loyalist
+R084,45–54,Male,> ₹10L,Post-Graduate,Brand B (Value),4,5,3,2,4,5,3,Quarterly,Social Media,4.15,Loyalist
+R085,45–54,Female,₹3L–₹6L,Graduate,Brand D (Traditional),5,2,4,4,1,3,5,Monthly,Word of Mouth,3.7,Loyalist
+R086,25–34,Female,₹6L–₹10L,High School,Brand C (Trendy),3,5,2,1,3,5,3,Monthly,Social Media,4.0,Loyalist
+R087,25–34,Male,₹6L–₹10L,Graduate,Brand A (Premium),4,4,1,5,4,5,3,Monthly,In-store,3.85,Loyalist
+R088,45–54,Female,₹3L–₹6L,Post-Graduate,Brand A (Premium),5,1,3,1,2,2,4,Monthly,TV Ads,2.85,Neutral
+R089,45–54,Female,> ₹10L,Graduate,Brand C (Trendy),4,4,3,2,3,4,2,Monthly,TV Ads,3.3,Neutral
+R090,35–44,Male,₹6L–₹10L,Post-Graduate,Brand C (Trendy),5,3,4,4,2,4,2,Quarterly,TV Ads,3.15,Neutral
+R091,45–54,Female,₹3L–₹6L,Post-Graduate,Brand A (Premium),5,3,4,2,5,2,4,Quarterly,Social Media,3.45,Neutral
+R092,55+,Male,₹6L–₹10L,Post-Graduate,Brand C (Trendy),4,5,3,5,4,3,3,Rarely,Word of Mouth,3.75,Loyalist
+R093,18–24,Female,₹3L–₹6L,Post-Graduate,Brand B (Value),4,4,5,3,4,3,4,Quarterly,Social Media,3.8,Loyalist
+R094,45–54,Female,₹6L–₹10L,High School,Brand C (Trendy),2,2,5,1,4,1,3,Monthly,In-store,2.15,Detractor
+R095,25–34,Male,₹3L–₹6L,Graduate,Brand C (Trendy),4,4,2,2,5,4,3,Monthly,Online Reviews,3.65,Loyalist
+R096,25–34,Female,> ₹10L,Doctorate,Brand D (Traditional),5,1,3,3,3,4,5,Monthly,Online Reviews,3.6,Loyalist
+R097,45–54,Male,₹3L–₹6L,Doctorate,Brand C (Trendy),3,5,3,5,4,3,4,Rarely,In-store,3.95,Loyalist
+R098,35–44,Female,₹3L–₹6L,High School,Brand D (Traditional),2,4,1,2,2,5,2,Quarterly,Word of Mouth,3.2,Neutral
+R099,18–24,Female,₹3L–₹6L,Post-Graduate,Brand A (Premium),1,4,4,3,4,5,4,Weekly,In-store,3.75,Loyalist
+R100,35–44,Male,> ₹10L,High School,Brand B (Value),3,1,4,3,2,4,2,Monthly,Word of Mouth,2.25,Detractor
+R101,18–24,Female,₹6L–₹10L,Graduate,Brand A (Premium),3,2,3,4,1,3,2,Quarterly,TV Ads,2.35,Detractor
+R102,25–34,Male,₹3L–₹6L,Graduate,Brand D (Traditional),5,4,5,4,5,4,4,Quarterly,Social Media,4.15,Loyalist
+R103,45–54,Female,₹3L–₹6L,Graduate,Brand A (Premium),4,3,4,3,3,4,2,Quarterly,TV Ads,3.0,Neutral
+R104,25–34,Male,₹3L–₹6L,Graduate,Brand C (Trendy),4,5,2,3,5,5,3,Rarely,TV Ads,4.15,Loyalist
+R105,35–44,Male,> ₹10L,Doctorate,Brand B (Value),3,3,4,5,4,3,2,Monthly,Word of Mouth,2.65,Neutral
+R106,35–44,Female,< ₹3L,Graduate,Brand C (Trendy),3,4,4,5,4,2,2,Quarterly,Online Reviews,2.75,Neutral
+R107,45–54,Female,> ₹10L,Graduate,Brand B (Value),4,2,4,3,4,1,4,Weekly,Word of Mouth,2.8,Neutral
+R108,35–44,Female,> ₹10L,Graduate,Brand A (Premium),4,4,5,5,5,3,2,Quarterly,Social Media,3.1,Neutral
+R109,18–24,Female,₹3L–₹6L,High School,Brand B (Value),3,5,5,2,3,2,3,Monthly,Social Media,3.4,Neutral
+R110,25–34,Male,₹3L–₹6L,High School,Brand A (Premium),4,3,3,4,5,5,4,Monthly,Online Reviews,3.9,Loyalist
+R111,25–34,Other,₹6L–₹10L,Graduate,Brand B (Value),4,5,3,5,3,4,3,Monthly,Online Reviews,3.95,Loyalist
+R112,18–24,Male,₹6L–₹10L,Post-Graduate,Brand C (Trendy),5,2,1,3,2,4,2,Quarterly,TV Ads,2.85,Neutral
+R113,25–34,Male,> ₹10L,Graduate,Brand A (Premium),3,5,3,4,5,5,2,Monthly,Social Media,3.65,Loyalist
+R114,35–44,Female,> ₹10L,Graduate,Brand D (Traditional),4,4,2,1,2,4,5,Monthly,Social Media,4.35,Loyalist
+R115,45–54,Male,₹3L–₹6L,Graduate,Brand B (Value),4,2,2,4,3,4,3,Monthly,Social Media,3.05,Neutral
+R116,55+,Male,< ₹3L,Post-Graduate,Brand B (Value),2,5,5,4,5,3,4,Quarterly,In-store,3.8,Loyalist
+R117,18–24,Female,₹3L–₹6L,Graduate,Brand D (Traditional),4,5,1,3,3,3,4,Monthly,TV Ads,4.1,Loyalist
+R118,18–24,Male,₹6L–₹10L,Graduate,Brand A (Premium),5,2,2,3,4,4,5,Weekly,TV Ads,3.9,Loyalist
+R119,35–44,Female,₹6L–₹10L,Graduate,Brand B (Value),3,2,4,2,4,5,4,Monthly,Online Reviews,3.45,Neutral
+R120,18–24,Female,< ₹3L,Graduate,Brand D (Traditional),4,3,4,4,4,3,5,Quarterly,Social Media,3.85,Loyalist
+R121,18–24,Male,₹6L–₹10L,Graduate,Brand A (Premium),2,4,3,3,2,4,4,Weekly,TV Ads,3.7,Loyalist
+R122,35–44,Male,> ₹10L,Graduate,Brand C (Trendy),4,5,5,4,4,3,2,Quarterly,Word of Mouth,3.4,Neutral
+R123,18–24,Male,> ₹10L,Post-Graduate,Brand A (Premium),5,5,3,2,5,3,4,Monthly,TV Ads,4.25,Loyalist
+R124,45–54,Female,> ₹10L,Graduate,Brand B (Value),4,3,2,4,2,4,4,Monthly,Social Media,3.7,Loyalist
+R125,45–54,Male,> ₹10L,Doctorate,Brand C (Trendy),3,1,4,2,5,5,5,Monthly,TV Ads,3.5,Neutral
+R126,18–24,Male,> ₹10L,Graduate,Brand A (Premium),3,4,2,4,5,5,3,Monthly,Social Media,3.7,Loyalist
+R127,25–34,Male,< ₹3L,Graduate,Brand B (Value),4,4,4,1,3,4,4,Weekly,Social Media,4.0,Loyalist
+R128,45–54,Female,> ₹10L,Post-Graduate,Brand C (Trendy),5,3,5,2,5,1,1,Monthly,TV Ads,2.2,Detractor
+R129,55+,Male,₹3L–₹6L,Post-Graduate,Brand C (Trendy),4,4,5,2,5,3,3,Monthly,Social Media,3.45,Neutral
+R130,25–34,Female,₹3L–₹6L,Post-Graduate,Brand A (Premium),4,5,5,3,2,4,3,Weekly,In-store,3.95,Loyalist
+R131,18–24,Male,₹3L–₹6L,Graduate,Brand B (Value),5,2,1,5,4,5,2,Monthly,Word of Mouth,3.05,Neutral
+R132,45–54,Female,> ₹10L,Post-Graduate,Brand D (Traditional),2,3,3,1,5,2,5,Monthly,In-store,3.35,Neutral
+R133,45–54,Female,₹6L–₹10L,Post-Graduate,Brand B (Value),5,5,5,3,5,5,5,Weekly,In-store,5.0,Loyalist
+R134,18–24,Male,₹3L–₹6L,Graduate,Brand C (Trendy),4,2,5,1,2,5,3,Weekly,Social Media,3.25,Neutral
+R135,25–34,Female,₹3L–₹6L,Graduate,Brand A (Premium),3,2,4,3,3,2,4,Monthly,Social Media,2.85,Neutral
+R136,35–44,Male,> ₹10L,Post-Graduate,Brand B (Value),5,3,4,2,4,5,5,Quarterly,In-store,4.4,Loyalist
+R137,45–54,Female,₹6L–₹10L,Graduate,Brand B (Value),3,4,3,2,3,4,4,Quarterly,TV Ads,3.85,Loyalist
+R138,18–24,Female,< ₹3L,Post-Graduate,Brand C (Trendy),2,2,3,3,3,5,3,Monthly,Word of Mouth,2.95,Neutral
+R139,35–44,Male,₹3L–₹6L,Post-Graduate,Brand C (Trendy),3,2,1,3,2,4,4,Weekly,Online Reviews,3.25,Neutral
+R140,45–54,Male,₹3L–₹6L,Post-Graduate,Brand C (Trendy),4,4,5,2,1,4,3,Quarterly,Social Media,3.65,Loyalist
+R141,25–34,Male,₹3L–₹6L,Graduate,Brand C (Trendy),2,4,3,4,3,5,4,Rarely,Word of Mouth,3.9,Loyalist
+R142,18–24,Male,₹6L–₹10L,Post-Graduate,Brand C (Trendy),4,4,5,2,3,5,4,Weekly,Social Media,4.2,Loyalist
+R143,18–24,Male,₹3L–₹6L,Graduate,Brand D (Traditional),3,4,1,5,4,4,3,Monthly,Social Media,3.5,Neutral
+R144,25–34,Male,₹6L–₹10L,Graduate,Brand B (Value),4,5,4,2,5,4,4,Weekly,Social Media,4.3,Loyalist
+R145,45–54,Female,> ₹10L,Post-Graduate,Brand C (Trendy),2,2,4,5,2,5,4,Quarterly,Social Media,3.3,Neutral
+R146,18–24,Male,₹6L–₹10L,Doctorate,Brand B (Value),5,4,1,2,3,3,4,Weekly,Social Media,3.95,Loyalist
+R147,18–24,Female,< ₹3L,Graduate,Brand A (Premium),5,3,4,5,5,4,3,Rarely,Word of Mouth,3.5,Neutral
+R148,25–34,Male,₹3L–₹6L,High School,Brand A (Premium),3,4,4,1,5,2,4,Monthly,TV Ads,3.45,Neutral
+R149,18–24,Male,₹3L–₹6L,High School,Brand C (Trendy),4,3,4,1,2,3,2,Quarterly,Online Reviews,2.8,Neutral
+R150,18–24,Female,₹6L–₹10L,Graduate,Brand C (Trendy),4,2,4,1,4,4,4,Monthly,Social Media,3.4,Neutral
